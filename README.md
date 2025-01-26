@@ -1,11 +1,11 @@
 # Eternal-Elegance-.NET-MVC-Project
 Eternal Elegance is an MVC application designed to streamline operations for beauty salons. The application helps manage appointments, client records, and other salon-related tasks efficiently.
 
-Key Features:
-	Appointment Management: Easily schedule and track client bookings.
-	Client Management: Maintain a database of new and existing clients.
-	CRUD Operations: Comprehensive Create, Read, Update, and Delete functionality for managing salon data.
-	Scalable Base: Serves as a foundation for other beauty salon applications with similar requirements.
+### Key Features:
+- **Appointment Management:** Easily schedule and track client bookings.
+- **Client Management:** Maintain a database of new and existing clients.
+- **CRUD Operations:** Comprehensive Create, Read, Update, and Delete functionality for managing salon data.
+- **Scalable Base:** Serves as a foundation for other beauty salon applications with similar requirements.
 
 ## Login page
 ![a965bc8a-b59f-4008-a8cd-4a30cfc149b1](https://github.com/user-attachments/assets/0269e85d-0dc7-40f6-92d0-1f9ab2bf8aed)
