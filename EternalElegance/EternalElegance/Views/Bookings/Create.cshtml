@@ -1,0 +1,112 @@
+﻿@model EternalElegance.Models.Booking
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Customer.Name, "Customer Name")
+        @Html.TextBoxFor(model => model.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Customer.Name, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Customer.LastName, "Customer Last Name")
+        @Html.TextBoxFor(model => model.Customer.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Customer.LastName, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <label for="serviceDropdown">Service</label>
+        <select id="serviceDropdown" class="form-control">
+            <option value="">-- Select Service --</option>
+            @if (ViewBag.Services != null)
+            {
+                foreach (var service in ViewBag.Services as List<SelectListItem>)
+                {
+                    <option value="@service.Value">@service.Text</option>
+                }
+            }
+        </select>
+    </div>
+
+    @Html.HiddenFor(model => model.ServiceId, new { @id = "ServiceId" })
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.BookingDateTime)
+        @Html.TextBoxFor(model => model.BookingDateTime, new { @class = "form-control", @id = "BookingDateTime" })
+        @Html.ValidationMessageFor(model => model.BookingDateTime, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+}
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#serviceDropdown').change(function () {
+                var selectedServiceId = $(this).val();
+                $('#ServiceId').val(selectedServiceId);
+            });
+
+flatpickr("#BookingDateTime", {
+    wrap: false,
+    weekNumbers: true,
+    enableTime: true,
+    time_24hr: true,
+    minTime: "10:00",  
+    maxTime: "18:00",  
+    minDate: "today",  
+    disable: [
+        function(date) {
+            return (date.getDay() === 1);
+        }
+    ],
+    onChange: function(selectedDates, dateStr, instance) {
+        var date = selectedDates[0];
+        var serviceId = $("#ServiceId").val();
+
+        var today = new Date();
+        if (date.toDateString() === today.toDateString()) {
+            var currentHour = today.getHours();
+            var currentMinutes = today.getMinutes();
+            var minTime = currentHour >= 10 ? `${currentHour}:${currentMinutes < 10 ? '0' + currentMinutes : currentMinutes}` : "10:00";
+
+            instance.set("minTime", minTime);  
+        } else {
+            instance.set("minTime", "10:00");
+        }
+
+        if (date && serviceId) {
+            fetchAvailableTimes(date, serviceId).done(function(availableTimes) {
+                instance.set("enable", [
+                    function(datetime) {
+                        var formattedTime = flatpickr.formatDate(datetime, "H:i");
+                        return availableTimes.includes(formattedTime);
+                    }
+                ]);
+            }).fail(function(jqXHR, textStatus, errorThrown) {
+                console.error("Error fetching available times:", textStatus, errorThrown);
+            });
+        }
+    }
+});
+
+function fetchAvailableTimes(date, serviceId) {
+    return $.ajax({
+        url: '@Url.Action("CheckAvailability", "Bookings")',
+        data: {
+            date: date.toISOString(),
+            serviceId: serviceId
+        }
+    });
+}
+
+        });
+    </script>
+}

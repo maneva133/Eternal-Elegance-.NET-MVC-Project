@@ -1,0 +1,234 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section scripts {
+    <script>
+        // Additional page-specific scripts here
+    </script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+}
+
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <title>Eternal Elegance</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link href="~/Views/Home/assets/css/main.css" rel="stylesheet" />
+
+</head>
+<body class="homepage is-preload">
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+
+    <div id="page-wrapper">
+
+        <!-- Intro -->
+        <section id="intro" class="wrapper style1">
+
+            <div class="container">
+                <p class="style1"></p>
+                <p class="style2">
+                    Welcome to Eternal Elegance!
+                </p>
+                <p class="style3">
+
+                    Manage your salon effortlessly with our intuitive platform. Whether you're managing appointments, handling customer profiles, or tracking employee schedules, EternalElegance makes it all easy.
+                </p>
+                <ul class="actions">
+                    <li>
+                        @Html.ActionLink("Book Your Appointment", "Create", "Bookings", null, new { @class = "button style3 large" })
+
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Main -->
+        <section id="main" class="wrapper style2">
+            <div class="title">The Details</div>
+            <div class="container">
+
+                <!-- Image -->
+                <a href="#" class="image featured">
+                    <img src="~/images/pic01.jpg" />
+                </a>
+
+                <!-- Features -->
+                <section id="features">
+                    <header class="style1">
+                        <h2>Services that we provide</h2>
+                        <p></p>
+                    </header>
+                    <div class="feature-list">
+                        <div class="row">
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon fa-comment">Manicure</h3>
+                                    <p>Enjoy a relaxing manicure to keep your nails in perfect shape and style. From basic to deluxe options, we cater to your nail care needs. <strong>Price Range: $20 - $50.</strong></p>
+                                </section>
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon solid fa-sync">Pedicure</h3>
+                                    <p>Treat your feet with a refreshing pedicure session that includes exfoliation, nail care, and a soothing massage. <strong>Price Range: $30 - $60.</strong></p>
+                                </section>
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon fa-image">Haircuts</h3>
+                                    <p>Get a professional haircut that suits your style and personality, whether it's a simple trim or a complete transformation. <strong>Price Range: $25 - $75.</strong></p>
+                                </section>
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon solid fa-cog">Hair Coloring</h3>
+                                    <p>From subtle highlights to bold color changes, we offer a wide range of hair coloring options to suit your preferences. <strong>Price Range: $60 - $150.</strong></p>
+                                </section>
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon solid fa-wrench">Makeup</h3>
+                                    <p>Whether for a special occasion or a glamorous look, our makeup artists will create a stunning appearance tailored to you. <strong>Price Range: $50 - $120.</strong></p>
+                                </section>
+                            </div>
+                            <div class="col-6 col-12-medium">
+                                <section>
+                                    <h3 class="icon solid fa-check">Waxing</h3>
+                                    <p>Achieve smooth, hair-free skin with our professional waxing services, tailored for all areas of the body. <strong>Price Range: $20 - $80.</strong></p>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                    <ul class="actions special">
+                        <li><a href="~/Views/Account/Register.cshtml" class="button style1 large">Get Started</a></li>
+                        <li><a href="~/Views/Account/Login.cshtml" class="button style2 large">Already have an account?</a></li>
+                    </ul>
+                </section>
+
+            </div>
+        </section>
+
+        <!-- Highlights -->
+        <section id="highlights" class="wrapper style3">
+            <div class="title">Our Work</div>
+            <div class="container">
+                <div class="row aln-center">
+
+                    <div class="col-4 col-12-medium">
+                        <section class="highlight">
+                            <a href="@Url.Action("Gallery", "Home")" class="image featured">
+
+
+                                <img class="imgs" src="~/images for icons/balayage.jpg" />
+                            </a>
+                            <h3>
+                                <a href="@Url.Action("Gallery", "Home")">Check out our work</a>
+
+
+                            </h3>
+                            <ul class="actions">
+                                <li>
+
+                                    @Html.ActionLink("Learn More", "Gallery", "Home", null, new { @class = "button style1" })
+
+
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+
+
+                    <div class="col-4 col-12-medium">
+                        <section class="highlight">
+                            <a href="@Url.Action("Team", "Home")" class="image featured">
+                                <img class="imgs" src="~/images for icons/t.jpg" />
+                            </a>
+                            <h3>
+                                <a href="@Url.Action("Team", "Home")">
+                                    How to be That Salon Where Everyone Wants to Work
+                                </a>
+                            </h3>
+                            <ul class="actions">
+                                <li>
+                                    @Html.ActionLink("Learn More", "Team", "Home", null, new { @class = "button style1" })
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+
+
+
+                    <div class="col-4 col-12-medium">
+                        <section class="highlight">
+                            <a href="@Url.Action("Products", "Home")" class="image featured">
+                                <img class="imgs" src="~/images for icons/haircoloring.jpg" />
+                            </a>
+                            <h3>
+                                <a href="@Url.Action("Products", "Home")">
+                                    Products we use
+                                </a>
+                            </h3>
+                            <ul class="actions">
+                                @Html.ActionLink("Learn More", "Products", "Home", null, new { @class = "button style1" })
+                            </ul>
+                        </section>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+
+    </div>
+
+
+    <!-- Scripts -->
+
+
+</body>
+</html>
+<style>
+   
+
+.container {
+width: 100em;
+}
+
+    
+    .imgs{
+        width:auto;
+        height:500px;
+    }
+
+    .feature-list h3::before {
+        display: block;
+        color: #fff;
+        background: white;
+        border-radius: 2.5em;
+        text-align: center;
+        width: 2.5em;
+        height: 2.5em;
+        line-height: 2.5em;
+        margin-right: 0.75em;
+        position: absolute;
+        left: 0;
+        margin-top: -0.5em;
+       
+</style>

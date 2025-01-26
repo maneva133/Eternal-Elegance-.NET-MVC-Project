@@ -1,0 +1,65 @@
+﻿@using EternalElegance.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+<main aria-labelledby="title" class="login-main">
+    <h2 id="title">@ViewBag.Title</h2>
+    <div class="row justify-content-center">
+        <div id="marginAuto" class="col-md-6">
+            <section id="loginForm">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h4>Use a local account to log in.</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="frm">
+                        @Html.LabelFor(m => m.Email, new { @class = "col-md-3 col-form-label" })
+                        <div class="col-md-9">
+                            @Html.TextBoxFor(m => m.Email, new { @class = "fc", placeholder = "Email" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="frm">
+                        @Html.LabelFor(m => m.Password, new { @class = "col-md-3 col-form-label" })
+                        <div class="col-md-9">
+                            @Html.PasswordFor(m => m.Password, new { @class = "fc", placeholder = "Password" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="frm">
+                        <div class="offset-md-3 col-md-9">
+                            <div class="form-check">
+                                @Html.CheckBoxFor(m => m.RememberMe, new { @class = "form-check-input" })
+                                @Html.LabelFor(m => m.RememberMe, new { @class = "form-check-label" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="frm">
+                        <div class="offset-md-3 col-md-9">
+                            <input type="submit" value="Log in" class="btn btn-primary btn-block" />
+                        </div>
+                    </div>
+                    <p class="text-center">
+                        @Html.ActionLink("Register as a new user", "Register", null, new { @class = "btn btn-link" })
+                    </p>
+                }
+            </section>
+        </div>
+        <div class="col-md-4">
+            <section id="socialLoginForm">
+                @Html.Partial("_ExternalLoginsListPartial", new ExternalLoginListViewModel { ReturnUrl = ViewBag.ReturnUrl })
+            </section>
+        </div>
+    </div>
+</main>
+<style>
+    #marginAuto{
+        margin:auto;
+    }
+</style>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

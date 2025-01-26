@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "About Us";
+}
+
+
+<style>
+    /* About Us Page */
+#wr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.cnt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cntent {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.image, .text {
+    flex: 1;
+    margin: 1rem;
+    max-width: 48%;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.text {
+    padding-left: 2rem;
+}
+
+.text h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.text p {
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+
+
+</style>
+<section id="about" class="wr style3">
+    <div class="cnt">
+        <header class="major">
+        </header>
+        <div class="cntent">
+            <div class="image">
+                <img src="~/wwwroot/assets/css/images/about photo.jpg" />
+            </div>
+            <div class="text">
+                <h3>WHY ARE WE THE BEST?</h3>
+                <p>
+                    Welcome to Eternal Elegance.
+                    Founded in 2009, our salon has been dedicated to enhancing the elegance
+                    and beauty of our clients with high-quality services and a professional
+                    touch. At Eternal Elegance, we prioritize your satisfaction and strive to 
+                    create a luxurious experience that leaves you feeling rejuvenated and
+                    confident. Our team of skilled professionals is committed to providing
+                    personalized services tailored to your needs, ensuring that each visit 
+                    to our salon is a memorable one.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

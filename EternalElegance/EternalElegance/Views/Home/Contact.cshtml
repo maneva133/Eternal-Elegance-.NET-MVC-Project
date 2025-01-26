@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+
+<main aria-labelledby="contact-title">
+    <div class="contact-info">
+        <h4>Contact Information</h4>
+        <p><strong>Salon Name:</strong> Eternal Elegance</p>
+        <p><strong>Phone:</strong> 043-444/595</p>
+        <p><strong>Email:</strong> info@eternalelegance.com</p>
+        <p><strong>Address:</strong> Partizanski Odredi br.87</p>
+        <div id="map" style="height: 400px; width: 100%;"></div>
+    </div>
+</main>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var location = [42.0012957, 21.4049983]; 
+            var map = L.map('map').setView(location, 15);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+            var marker = L.marker(location).addTo(map)
+                .bindPopup('<b>Eternal Elegance</b><br>Partizanski Odredi br.87')
+                .openPopup();
+        });
+    </script>
+}

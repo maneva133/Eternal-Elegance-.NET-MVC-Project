@@ -1,0 +1,197 @@
+﻿@{
+    ViewBag.Title = "Products";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products We Use</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Bootstrap JS (for modals) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <style>
+        .product-link {
+            text-decoration: none;
+            font-weight: bold;
+            color: palevioletred;
+            font-size: 1.2rem;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+            .product-link:hover {
+                color: #0056b3;
+                transform: scale(1.1);
+            }
+
+        .list-group-item {
+
+            background-color: #f8f9fa;
+            border: none;
+            padding-left:520px;
+        }
+
+        .modal-content {
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal-header {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .modal-footer {
+            background-color: #f1f1f1;
+        }
+
+        .btn-secondary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+            .btn-secondary:hover {
+                background-color: #0056b3;
+                border-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container mt-5">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Shampoo')">Shampoo</button>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Conditioner')">Conditioner</button>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Hair Serum')">Hair Serum</button>
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Hair Gloss')">Hair Gloss</button>
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Argan Oil')">Argan Oil</button>
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Castor Oil')">Castor oil</button>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Primer Polish')">Primer Polish</button>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Nail Serum')">Nail Serum</button>
+            </li>
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Makeup Brushes')">Makeup Brushes</button>
+
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Primer')">Primer</button>
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Wax beads')">Wax beads</button>
+            </li>
+
+            <li class="list-group-item">
+                <button class="btn btn-link product-link" data-bs-toggle="modal" data-bs-target="#productModal" onclick="showProductInfo('Cold wax')">Cold wax</button>
+            </li>
+        </ul>
+    </div>
+
+    <div class="modal fade" id="productModal" tabindex="-1" aria-labelledby="productModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="productModalLabel">Product Name</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p id="productIngredients"></p>
+                    <p id="productPrice"></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function showProductInfo(product) {
+            const products = {
+                'Shampoo': {
+                    ingredients: 'Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, etc.',
+                    price: '$12.99'
+                },
+                'Conditioner': {
+                    ingredients: 'Water, Cetyl Alcohol, Dimethicone, etc.',
+                    price: '$14.99'
+                },
+                'Hair Serum': {
+                    ingredients: 'Cyclopentasiloxane, Dimethiconol, etc.',
+                    price: '$19.99'
+                },
+                'Hair Gloss': {
+                    ingredients: 'Water, Behentrimonium chloride and Amodimethicone etc.',
+                    price: '$20.99'
+                },
+                'Argan Oil': {
+                    ingredients: 'Pure Argan Oil',
+                    price: '$18.99'
+                },
+                'Castor Oil': {
+                    ingredients: 'Pure Castor Oil',
+                    price: '$20.99'
+                },
+                'Primer Polish': {
+                    ingredients: 'Water,  antioxidants such as A, C, and E, grape seed extract and green tea extract etc.',
+                    price: '$9.99'
+                },
+                'Nail Serum': {
+                    ingredients: 'Water, Panthenol, Glycerin, Aloe Vera, Parfum etc.',
+                    price: '$12.99'
+                },
+                'Makeup Brushes': {
+                    ingredients: 'The bristles may be made out of natural or synthetic materials.',
+                    price: '$12.99'
+                },
+                'Primer': {
+                    ingredients: 'Water, Oils, Parfum etc.',
+                    price: '$12.99'
+                },
+                'Wax beads': {
+                    ingredients: 'Wax, Oils',
+                    price: '$12.99'
+                },
+                'Cold wax': {
+                    ingredients: 'Wax, Oils',
+                    price: '$12.99'
+                }
+            };
+
+            if (products[product]) {
+                document.getElementById('productModalLabel').innerText = product;
+                document.getElementById('productIngredients').innerText = `Ingredients: ${products[product].ingredients}`;
+                document.getElementById('productPrice').innerText = `Price: ${products[product].price}`;
+            }
+        }
+    </script>
+
+</body>
+</html>

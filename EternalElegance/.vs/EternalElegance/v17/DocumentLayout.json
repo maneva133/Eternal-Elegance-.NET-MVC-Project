@@ -1,0 +1,1450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|c:\\users\\hp\\desktop\\fax\\vtora godina\\4 semestar\\internet tehnologii\\eternalelegance\\eternalelegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\attributes\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\attributes\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|c:\\users\\hp\\desktop\\fax\\vtora godina\\4 semestar\\internet tehnologii\\eternalelegance\\eternalelegance\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\error\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\error\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Services.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Bookings.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\pedicure (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\pedicure (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\pedicure.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\pedicure.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\pedi (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\pedi (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\pedi (1).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\pedi (1).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\manicure.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\manicure.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\colornail (1).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\colornail (1).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images for icons\\colornail (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images for icons\\colornail (2).jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\assets\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\assets\\css\\fontawesome-all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic09.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic09.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic08.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic08.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic07.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic07.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic06.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic06.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic05.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic05.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic04.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic04.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic03.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic03.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic02.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic02.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\images\\pic01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\images\\pic01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\assets\\css\\images\\overlay.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\assets\\css\\images\\overlay.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\assets\\js\\breakpoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\assets\\js\\breakpoints.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202408251746124_adduseridtocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202408251746124_adduseridtocustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202406301955158_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202406301955158_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202408221331312_registrationissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202408221331312_registrationissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\models\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\models\\addtorolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\wwwroot\\assets\\sass\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\wwwroot\\assets\\sass\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\content\\kendo\\2024.2.514\\bootstrap-3-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\content\\kendo\\2024.2.514\\bootstrap-3-dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\content\\kendo\\2024.2.514\\font-icons\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\content\\kendo\\2024.2.514\\font-icons\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202407101622132_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202407101622132_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202407011456238_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202407011456238_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202406302124292_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202406302124292_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\migrations\\202406302001595_addedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\migrations\\202406302001595_addedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\shared\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\shared\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\eternalelegance\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63EE411E-3949-4CD6-9A1B-BF05509FE082}|EternalElegance\\EternalElegance.csproj|solutionrelative:eternalelegance\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ui-icons_cc0000_256x240.png - PNG [256x240, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png",
+              "RelativeDocumentMoniker": "EternalElegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png - PNG [256x240, 32 bit, PNG]",
+              "RelativeToolTip": "EternalElegance\\jquery-ui-1.14.0.custom\\jquery-ui-1.14.0.custom\\images\\ui-icons_cc0000_256x240.png - PNG [256x240, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-26T12:25:34.531Z",
+              "EditorCaption": " - PNG [256x240, 32 bit, PNG]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\ThankYou.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\ThankYou.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T22:19:09.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Unauthorized.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Error\\Unauthorized.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Error\\Unauthorized.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Error\\Unauthorized.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Error\\Unauthorized.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:41:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:41:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Attributes\\CustomAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Attributes\\CustomAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Attributes\\CustomAuthorizeAttribute.cs*",
+              "RelativeToolTip": "EternalElegance\\Attributes\\CustomAuthorizeAttribute.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:38:45.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AQIAACsAAABAMzMzMzMrwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T17:48:26.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddUserToRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Account\\AddUserToRole.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Account\\AddUserToRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T17:40:18.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\wwwroot\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "EternalElegance\\wwwroot\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\wwwroot\\assets\\css\\main.css",
+              "RelativeToolTip": "EternalElegance\\wwwroot\\assets\\css\\main.css",
+              "ViewState": "AQIAAEQHAAAAm5mZmZkswFkHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-25T17:30:26.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Global.asax.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Global.asax.cs",
+              "RelativeToolTip": "EternalElegance\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:58:40.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Startup.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Startup.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Startup.cs",
+              "RelativeToolTip": "EternalElegance\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:58:38.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Web.config",
+              "RelativeDocumentMoniker": "EternalElegance\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Web.config",
+              "RelativeToolTip": "EternalElegance\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T16:58:36.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "pedicure.jpg - Bitmap [564x846, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedicure.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\pedicure.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedicure.jpg - Bitmap [564x846, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\pedicure.jpg - Bitmap [564x846, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:20:02.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "pedicure (2).jpg - Bitmap [564x846, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedicure (2).jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\pedicure (2).jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedicure (2).jpg - Bitmap [564x846, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\pedicure (2).jpg - Bitmap [564x846, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:59.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "pedi (2).jpg - Bitmap [736x1151, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedi (2).jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\pedi (2).jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedi (2).jpg - Bitmap [736x1151, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\pedi (2).jpg - Bitmap [736x1151, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:57.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "pedi (1).jpg - Bitmap [564x564, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedi (1).jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\pedi (1).jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\pedi (1).jpg - Bitmap [564x564, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\pedi (1).jpg - Bitmap [564x564, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "manicure.jpg - Bitmap [564x563, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\manicure.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\manicure.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\manicure.jpg - Bitmap [564x563, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\manicure.jpg - Bitmap [564x563, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:54.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "colornail (1).jpg - Bitmap [564x640, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\colornail (1).jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\colornail (1).jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\colornail (1).jpg - Bitmap [564x640, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\colornail (1).jpg - Bitmap [564x640, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:51.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "colornail (2).jpg - Bitmap [564x921, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\colornail (2).jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images for icons\\colornail (2).jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images for icons\\colornail (2).jpg - Bitmap [564x921, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images for icons\\colornail (2).jpg - Bitmap [564x921, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T14:19:49.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:49:25.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Team.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Team.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\Team.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Team.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\Team.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:26:27.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\Gallery.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Gallery.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\Gallery.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T23:02:54.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "fontawesome-all.min.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\fontawesome-all.min.css",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\assets\\css\\fontawesome-all.min.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\fontawesome-all.min.css",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\assets\\css\\fontawesome-all.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T12:43:16.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "pic09.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic09.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic09.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic09.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic09.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:07.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "pic08.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic08.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic08.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic08.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic08.jpg - Bitmap [160x160, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:06.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "pic07.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic07.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic07.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic07.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic07.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:04.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "pic06.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic06.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic06.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic06.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic06.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "pic05.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic05.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic05.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic05.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic05.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:03.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "pic04.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic04.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic04.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic04.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic04.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:02.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "pic03.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic03.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic03.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic03.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic03.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:01.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "pic02.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic02.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic02.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic02.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic02.jpg - Bitmap [326x166, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:26:00.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "pic01.jpg - Bitmap [1200x297, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic01.jpg",
+              "RelativeDocumentMoniker": "EternalElegance\\images\\pic01.jpg",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\images\\pic01.jpg - Bitmap [1200x297, 24 bit, JPG]",
+              "RelativeToolTip": "EternalElegance\\images\\pic01.jpg - Bitmap [1200x297, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:25:58.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "overlay.png - PNG [300x300, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\images\\overlay.png",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\assets\\css\\images\\overlay.png",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\images\\overlay.png - PNG [300x300, 32 bit, PNG]",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\assets\\css\\images\\overlay.png - PNG [300x300, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-08T12:25:03.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\js\\main.js",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\assets\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T12:22:17.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "breakpoints.min.js",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\js\\breakpoints.min.js",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\assets\\js\\breakpoints.min.js",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\js\\breakpoints.min.js",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\assets\\js\\breakpoints.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T12:22:12.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\assets\\css\\main.css",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\assets\\css\\main.css",
+              "ViewState": "AQIAAC4HAAAAAAAAAAAewEkHAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T15:52:23.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.Services [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Services.sql",
+              "ToolTip": "dbo.Services [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-28T15:53:13.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T14:05:24.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "dbo.AspNetUserLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "dbo.AspNetUserLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-25T18:07:49.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-25T18:04:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "202408251746124_AddUserIdToCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202408251746124_AddUserIdToCustomer.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202408251746124_AddUserIdToCustomer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202408251746124_AddUserIdToCustomer.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202408251746124_AddUserIdToCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:46:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Bookings [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Bookings.sql",
+              "ToolTip": "dbo.Bookings [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-25T17:29:47.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T13:33:55.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-22T13:32:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "202408221331312_RegistrationIssue.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202408221331312_RegistrationIssue.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202408221331312_RegistrationIssue.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202408221331312_RegistrationIssue.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202408221331312_RegistrationIssue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:31:38.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA8AAACAZmZmZmYkwEYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:26:20.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:45:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "main.scss",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\wwwroot\\assets\\sass\\main.scss",
+              "RelativeDocumentMoniker": "EternalElegance\\wwwroot\\assets\\sass\\main.scss",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\wwwroot\\assets\\sass\\main.scss",
+              "RelativeToolTip": "EternalElegance\\wwwroot\\assets\\sass\\main.scss",
+              "ViewState": "AQIAAEYFAAAAWGZmZmYkwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-07-12T18:37:32.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Booking.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:06:46.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "bootstrap-3-dark.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Content\\kendo\\2024.2.514\\bootstrap-3-dark.css",
+              "RelativeDocumentMoniker": "EternalElegance\\Content\\kendo\\2024.2.514\\bootstrap-3-dark.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Content\\kendo\\2024.2.514\\bootstrap-3-dark.css",
+              "RelativeToolTip": "EternalElegance\\Content\\kendo\\2024.2.514\\bootstrap-3-dark.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-10T16:29:47.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "202406302124292_third.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406302124292_third.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202406302124292_third.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406302124292_third.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202406302124292_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:24:59.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAD4AAACAZmZmZmYiwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:24:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:24:41.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T16:24:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "202407101622132_b.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202407101622132_b.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202407101622132_b.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202407101622132_b.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202407101622132_b.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:22:19.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T16:15:14.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDb__MSSQLLocalDB/aspnet_EternalElegance_20240625070510/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T14:23:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Services\\Create.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Services\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:21:30.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "202406302001595_addedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406302001595_addedRoles.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202406302001595_addedRoles.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406302001595_addedRoles.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202406302001595_addedRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:21:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "202407011456238_fourth.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202407011456238_fourth.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202407011456238_fourth.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202407011456238_fourth.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202407011456238_fourth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:21:16.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAACkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:21:04.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAAIoAAAAA0MzMzMwEwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:21:03.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "EternalElegance\\Controllers\\AccountController.cs*",
+              "ViewState": "AQIAAG4AAACA7/////8twPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:20:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AddToRoleModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\AddToRoleModel.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\AddToRoleModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\AddToRoleModel.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\AddToRoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:20:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Shared\\Lockout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\Lockout.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Shared\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:19:43.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:19:32.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:18:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Content\\kendo\\2024.2.514\\font-icons\\index.css",
+              "RelativeDocumentMoniker": "EternalElegance\\Content\\kendo\\2024.2.514\\font-icons\\index.css",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Content\\kendo\\2024.2.514\\font-icons\\index.css",
+              "RelativeToolTip": "EternalElegance\\Content\\kendo\\2024.2.514\\font-icons\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-05T17:09:53.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T17:07:51.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "EternalElegance\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:05:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "EternalElegance\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:05:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\BundleConfig.cs*",
+              "RelativeToolTip": "EternalElegance\\App_Start\\BundleConfig.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:59:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:53:52.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:53:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:53:19.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "EternalElegance\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AQIAACIAAACAMzMzMzMrwDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:53:18.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\packages.config",
+              "RelativeDocumentMoniker": "EternalElegance\\packages.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\packages.config",
+              "RelativeToolTip": "EternalElegance\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T16:49:27.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "EternalElegance\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:44:59.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Web.config",
+              "RelativeDocumentMoniker": "EternalElegance\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Views\\Web.config",
+              "RelativeToolTip": "EternalElegance\\Views\\Web.config",
+              "ViewState": "AQIAAA0AAABAMzMzMzMrwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T16:42:44.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAIEAAAAAm5mZmZkwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:29:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:00:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EternalElegance\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAGUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:00:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "202406301955158_initial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406301955158_initial.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\202406301955158_initial.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\202406301955158_initial.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\202406301955158_initial.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAcwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:55:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "EternalElegance\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:55:02.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAEMAAABAZGZmZmYSwF0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:53:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\IdentityConfig.cs*",
+              "RelativeToolTip": "EternalElegance\\App_Start\\IdentityConfig.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:47:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\App_Start\\Startup.Auth.cs*",
+              "RelativeToolTip": "EternalElegance\\App_Start\\Startup.Auth.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:46:18.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:42:04.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Service.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:06:36.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Employee.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:06:08.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EternalElegance\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Fax\\vtora godina\\4 semestar\\Internet tehnologii\\EternalElegance\\EternalElegance\\Models\\Customer.cs",
+              "RelativeToolTip": "EternalElegance\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:05:55.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

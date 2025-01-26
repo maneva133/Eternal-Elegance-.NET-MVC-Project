@@ -1,0 +1,24 @@
+﻿@model EternalElegance.Models.AddToRoleModel
+@{
+    ViewBag.Title = "Add User to Role";
+}
+
+<h2>Add User to Role</h2>
+
+@using (Html.BeginForm("AddUserToRole", "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email)
+        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.SelectedRole)
+        @Html.DropDownListFor(model => model.SelectedRole, new SelectList(Model.Roles), "-- Select Role --", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.SelectedRole, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-default">Add User to Role</button>
+}
